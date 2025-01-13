@@ -1,0 +1,14 @@
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+F:\Users\Lenovo\Desktop\Necip\sowtware-development\dotnet\projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
