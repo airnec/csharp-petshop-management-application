@@ -4,10 +4,10 @@ It is a console application that helps you manage information about the dogs and
 
 The application:
 
---> Adds predefined sample data to the pets array.
---> Iterates a "menu options and user selection" code block to establish the outer loop of the application.
---> Implements code branches corresponding to the user's menu selections.
---> Displays all the information contained in the array used to store pet data (based on user's menu selection).
+--> Adds predefined sample data to the pets array.\
+--> Iterates a "menu options and user selection" code block to establish the outer loop of the application.\
+--> Implements code branches corresponding to the user's menu selections.\
+--> Displays all the information contained in the array used to store pet data (based on user's menu selection).\
 --> Iterates an "add new animal information" code block that enables the user to add one or more new animals to the pets array (based on user's menu selection).
 
 It contains the following:\
